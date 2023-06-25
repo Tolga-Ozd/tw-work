@@ -2,6 +2,7 @@
 import './App.css';
 import Header from './companent/Header';
 import Main from "./companent/Main" ;
+import Card from "./companent/Card";
 const card = [
   {
     id: 1,
@@ -16,6 +17,8 @@ function App() {
     <div >
       <Header />
       <Main />
+      <Card />
+
     </div>
   );
 }
