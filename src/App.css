@@ -1,5 +1,6 @@
 nav {
   background-color: aqua;
+
 }
 
 .card{
@@ -7,4 +8,21 @@ nav {
   height: 400px;
   border: 1px solid red;
   background-color: bisque;
+}
+
+img{
+  width: 80px;
+
+}
+
+.elma{
+  width: 300px;
+}
+
+.armut{
+  display: flex;
+  margin: 15px;
+  border: 1px solid red;
+  padding: 5px;
+  justify-content: space-evenly;
 }
